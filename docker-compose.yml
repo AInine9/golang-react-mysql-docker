@@ -31,7 +31,7 @@ services:
       - variables.env
     ports:
       - '3306:3306'
-    links: 
+    links:
       - backend
   
   swagger-ui:
