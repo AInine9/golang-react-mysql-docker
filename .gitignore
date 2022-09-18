@@ -159,3 +159,6 @@ dist
 
 # MySQL data
 db/data
+
+# Go temp files
+backend/tmp
